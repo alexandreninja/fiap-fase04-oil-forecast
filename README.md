@@ -442,10 +442,10 @@ Para uma evolução futura do projeto, recomenda-se:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Projeto acadêmico
 
-Projeto desenvolvido por Alexandre Ribeiro Costa para o Tech Challenge da Pós-Tech FIAP em Data Analytics — Fase 04.
-
+Tech Challenge 04 — Pós-Tech FIAP Data Analytics  
+2026
 ---
 
 <img src="https://raw.githubusercontent.com/alexandreninja/xlsx-to-csv-converter/main/assets/ninja-logo.png" width="120" align="left"/>
