@@ -445,3 +445,13 @@ Para uma evolução futura do projeto, recomenda-se:
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por Alexandre Ribeiro Costa para o Tech Challenge da Pós-Tech FIAP em Data Analytics — Fase 04.
+
+---
+
+<img src="https://raw.githubusercontent.com/alexandreninja/xlsx-to-csv-converter/main/assets/ninja-logo.png" width="120" align="left"/>
+
+**Alexandre NINJA**  
+Marketing Analytics → Ciência de Dados  
+*Transformando dados em decisões — sem perder o propósito.*
+
+<br clear="left">
