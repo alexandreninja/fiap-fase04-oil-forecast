@@ -26,7 +26,7 @@ Para avaliação, recomenda-se acessar prioritariamente:
 
 | Entregável | Caminho / Link | Observação |
 |---|---|---|
-| Aplicação Streamlit | <a href="https://fiap-fase04-oil-forecast.streamlit.app/" target="_blank" rel="noopener noreferrer">Abrir MVP online</a> | Aplicação visual publicada com o modelo preditivo |
+| Aplicação Streamlit | [Abrir MVP online](https://fiap-fase04-oil-forecast.streamlit.app/) | Aplicação visual publicada com o modelo preditivo |
 | Notebook Python | [Abrir notebook](notebooks/analise_modelagem_petroleo_brent.ipynb) | Pipeline completa de análise, baseline, features, modelagem e avaliação |
 | Aplicação principal | [Ver código do app](app.py) | Código da interface visual em Streamlit |
 | Modelo treinado | [Ver modelo](models/modelo_petroleo.joblib) | Modelo Random Forest salvo com Joblib |
@@ -42,22 +42,22 @@ Para avaliação, recomenda-se acessar prioritariamente:
 Acesse o MVP publicado no Streamlit:
 
 <p align="left">
-  <a href="https://fiap-fase04-oil-forecast.streamlit.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://fiap-fase04-oil-forecast.streamlit.app/">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
   </a>
 </p>
 
 **Link direto:**  
-<a href="https://fiap-fase04-oil-forecast.streamlit.app/" target="_blank" rel="noopener noreferrer">
 https://fiap-fase04-oil-forecast.streamlit.app/
-</a>
+
+> Para abrir em uma nova aba, use `Ctrl + clique`, botão do meio do mouse ou botão direito → abrir link em nova guia.
 
 ---
 
 ## 🖥️ Preview do aplicativo
 
 <p align="left">
-  <a href="https://fiap-fase04-oil-forecast.streamlit.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://fiap-fase04-oil-forecast.streamlit.app/">
     <img src="fiap-fase04-oil-forecast.streamlit.app.png" alt="Preview da aplicação Streamlit de previsão do preço do petróleo Brent" width="900" />
   </a>
 </p>
@@ -426,7 +426,7 @@ A entrega do projeto contempla os dois itens solicitados:
 
 | Exigência da avaliação | Onde encontrar |
 |---|---|
-| Link da aplicação do modelo preditivo no Streamlit | <a href="https://fiap-fase04-oil-forecast.streamlit.app/" target="_blank" rel="noopener noreferrer">https://fiap-fase04-oil-forecast.streamlit.app/</a> |
+| Link da aplicação do modelo preditivo no Streamlit | https://fiap-fase04-oil-forecast.streamlit.app/ |
 | Notebook Python com toda pipeline de construção do modelo | `notebooks/analise_modelagem_petroleo_brent.ipynb` |
 
 Além disso, o repositório contém os scripts, dados tratados, modelo salvo e arquivos de métricas utilizados na aplicação.
