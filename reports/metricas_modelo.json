@@ -1,0 +1,34 @@
+{
+    "modelo": "RandomForestRegressor",
+    "quantidade_linhas_total": 11676,
+    "quantidade_linhas_treino": 9340,
+    "quantidade_linhas_teste": 2336,
+    "primeira_data_treino": "1987-07-02",
+    "ultima_data_treino": "2017-09-10",
+    "primeira_data_teste": "2017-09-11",
+    "ultima_data_teste": "2026-06-29",
+    "feature_usadas": [
+        "lag_1",
+        "lag_7",
+        "lag_30",
+        "media_7",
+        "media_30",
+        "variacao_1",
+        "variacao_7",
+        "ano",
+        "mes",
+        "dia_da_semana"
+    ],
+    "mae": 1.4918,
+    "rmse": 2.2003,
+    "mape": 2.148,
+    "comparacao_baseline": {
+        "observacao": "Baseline calculado no mesmo período de teste do modelo",
+        "mae_baseline_teste": 1.2732,
+        "rmse_baseline_teste": 1.9691,
+        "mape_baseline_teste": 1.8398,
+        "modelo_melhor_que_baseline_mae": false,
+        "modelo_melhor_que_baseline_rmse": false,
+        "modelo_melhor_que_baseline_mape": false
+    }
+}

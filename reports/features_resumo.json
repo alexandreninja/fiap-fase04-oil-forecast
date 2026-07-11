@@ -1,0 +1,21 @@
+{
+    "arquivo_entrada": "data\\processed\\petroleo_brent_tratado.csv",
+    "arquivo_saida": "data\\processed\\petroleo_brent_features.csv",
+    "linhas_base_original": 11706,
+    "linhas_base_com_features": 11676,
+    "linhas_removidas_por_lags_e_medias": 30,
+    "primeira_data": "1987-05-20",
+    "ultima_data": "2026-06-29",
+    "features_criadas": [
+        "lag_1",
+        "lag_7",
+        "lag_30",
+        "media_7",
+        "media_30",
+        "variacao_1",
+        "variacao_7",
+        "ano",
+        "mes",
+        "dia_da_semana"
+    ]
+}

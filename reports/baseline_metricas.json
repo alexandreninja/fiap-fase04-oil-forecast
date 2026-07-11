@@ -1,0 +1,9 @@
+{
+    "modelo": "Baseline - preço previsto de hoje igual ao preço de ontem",
+    "mae": 0.9375,
+    "rmse": 1.5177,
+    "mape": 1.7901,
+    "quantidade_linhas_avaliadas": 11705,
+    "primeira_linha_avaliada": "1987-05-21",
+    "ultima_linha_avaliada": "2026-06-29"
+}
